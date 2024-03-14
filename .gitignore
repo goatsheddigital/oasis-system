@@ -1,0 +1,8 @@
+# git ignore for solidity and node
+*.swp
+*.swo
+*.swn
+
+# solidity
+*.abi
+*.bin
